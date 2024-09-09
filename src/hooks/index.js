@@ -1,2 +1,2 @@
-export * from './useProducts';
-export * from './useProductsById';
+export * from '../hooks/useProducts';
+export * from '../hooks/useProductsByld';
